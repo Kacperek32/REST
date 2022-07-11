@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "tytul": "Piraci z karaibow",
+      "gatunek": "Komedia",
+      "strony": "250",
+      "obejrzane": false
+    },
+    {
+      "id": 2,
+      "tytul": "Straszny film",
+      "gatunek": "Horror",
+      "strony": "400",
+      "obejrzane": true
+    },
+    {
+      "id": 3,
+      "tytul": "Kasztanki",
+      "gatunek": "Bajka",
+      "strony": "300",
+      "obejrzane": false
+    }
+  ]
+  
